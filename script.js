@@ -3,4 +3,3 @@ let inspirationalMessages = ['It Always Seems Impossible Until Its Done. - Nelso
 const random = Math.floor(Math.random() * inspirationalMessages.length);
 console.log(random, inspirationalMessages[random])
 
-console.log('test')
